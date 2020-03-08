@@ -1,0 +1,5 @@
+x = float(5.5)
+print (x)
+x = int(5.5)
+print (x)
+f = input("Exit? Press 'ENTER'")
